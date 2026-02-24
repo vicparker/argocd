@@ -28,4 +28,4 @@ spec:
       machineDeployments:
         - class: node-pool
           name: argo-cluster-nodepool
-          replicas: 2
+          replicas: 1
